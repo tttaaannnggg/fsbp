@@ -1,9 +1,8 @@
 import React from 'react'
 
-const App = (props)=>{
+export const App = (props)=>{
   return(
-        <h1> hello world </h1>
+        <h1> hello </h1>
       )
 }
 
-export default App
